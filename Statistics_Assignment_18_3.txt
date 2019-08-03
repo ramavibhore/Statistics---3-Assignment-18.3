@@ -1,0 +1,14 @@
+'''
+You take the SAT and score 1100. The mean score for the SAT is 1026 and the standard
+deviation is 209. How well did you score on the test compared to the average test taker?
+'''
+
+* Mean value for SAT exam (M)= 1026
+* Standard Deviation (S)=209
+* Sample score (X)=1100
+
+So Z = (X-M)/S = (1100 - 1026)/209 = 0.354
+
+Using left Z table , if we consider Z=0.35, then value is coming as 0.6368 which is 63.68%.
+
+If we consider 50% is average out of 100%, then result is better than average test taker.
